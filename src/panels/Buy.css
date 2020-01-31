@@ -1,0 +1,44 @@
+
+/*  IOS   */
+
+@font-face {
+  font-family: SF;
+  src: url("./fonts/SFUIText-Regular.ttf");
+}
+
+.iosHeader {
+  font-family: SF;
+}
+
+.iosInfo {
+  font-family: SF;
+  text-align: center;
+}
+
+.iosBtnNext {
+  font-family: SF;
+}
+
+
+
+/*  ANDROID   */
+
+@font-face {
+  font-family: Roboto;
+  src: url("./fonts/Roboto-Regular.ttf");
+}
+
+.androidHeader {
+  font-family: Roboto;
+}
+
+.androidInfo {
+  font-family: Roboto;
+}
+
+.androidBtnNext {
+  font-family: Roboto;
+}
+
+
+
