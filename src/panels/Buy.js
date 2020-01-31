@@ -34,8 +34,12 @@ const Buy = props => (
 				</PanelHeader>
 					<Group className="iosGroup">
 						<Div> 
-							<p className="iosInfo">Благотворительность - одно из сопутствующих улучшению кармы.</p>
-							<p className="iosInfo">1 рубль - плюс 1 к карме</p>
+							<p className="iosInfo">
+							Благотворительность - одно из сопутствующих улучшению кармы.
+							</p>
+							<p className="iosInfo">
+							1 рубль - плюс 1 к карме
+							</p>
 							<Button className="iosBtnNext" size="xl" level="2" onClick={vkPay}>
 								Пожертвовать
 							</Button>
@@ -55,8 +59,12 @@ const Buy = props => (
 				</PanelHeader>
 					<Group className="androidGroup">
 						<Div> 
-							<p className="androidInfo">Благотворительность - одно из сопутствующих улучшению кармы.</p>
-							<p className="iosInfo">1 рубль - плюс 1 к карме</p>
+							<p className="androidInfo">
+							Благотворительность - одно из сопутствующих улучшению кармы.
+							</p>
+							<p className="iosInfo">
+							1 рубль - плюс 1 к карме
+							</p>
 							<Button className="androidBtnNext" size="xl" level="2"  onClick={vkPay}>
 								Пожертвовать
 							</Button>
