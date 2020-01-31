@@ -22,9 +22,13 @@ const Home = ({ id, go }) => (
 			<PanelHeader className="iosHeader">О сервисе</PanelHeader>
 				<Group className="iosGroup" title="+100 к карме">
 					<Div> 
+<<<<<<< HEAD
 						<p className="iosInfo">
 						Что посеешь, то и пожнешь. Такова суть первого закона кармы.
 						</p>
+=======
+						<p className="iosInfo">Что посеешь, то и пожнешь. Такова суть первого закона кармы. </p>
+>>>>>>> 9d7671c794eea72d96f8b767439c006692f7a2f8
 						<Button className="iosBtnNext" size="xl" level="2" onClick={go} data-to="buy">
 							Приступим
 						</Button>
