@@ -1,4 +1,104 @@
-.homePage {
+
+/*  IOS   */
+
+@font-face {
+    font-family: SF;
+    src: url("./fonts/SFUIText-Regular.ttf");
+}
+
+.iosHeader {
+    font-family: SF;
+}
+
+.iosInfo {
+    font-family: SF;
+    text-align: center;
+}
+
+.iosBtnNext {
+    font-family: SF;
+}
+
+
+
+/*  ANDROID   */
+
+@font-face {
+    font-family: Roboto;
+    src: url("./fonts/Roboto-Regular.ttf");
+}
+
+.androidHeader {
+    font-family: Roboto;
+}
+
+.androidInfo {
+    font-family: Roboto;
+}
+
+.androidBtnNext {
+    font-family: Roboto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .headerHome {
+    margin-top: 5em;
+    text-align: center;
+    font-weight: 500;
+    font-size: 22px;
+}
+
+.textHome {
+    margin: 1em;
+}
+
+.btnDoneHome {
+    margin-top: 5em;
+    width: 15em;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+} */
+
+
+/* .headerHome {
+    color: red;
+} */
+
+/* .homePage {
     background-color: steelblue;
 }
 
@@ -12,11 +112,14 @@
     color: rebeccapurple;
 }
 
-.divHome1 {
-    background-color: seagreen;
-    color: rebeccapurple;
+.panelHome {
+    margin: 90px auto;
+    background-color: royalblue;
+    color: royalblue;
 }
 
-.dc {
-    background-color: red;
+.layoutHome {
+    background-color: slateblue;
+    background-image: image('../img/persik.png');
 }
+ */
